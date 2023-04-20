@@ -113,17 +113,17 @@ h2{
 	color: #9BD8B0;
 }
 
-.servicepic{
-	width: 70%;
-	padding-bottom: 1rem;
-	padding-top: 2REM;
-}
-
 p{
 	font-family: 'Annie Use Your Telescope', cursive;
 	color: #9BD8B0;
 	font-size: 1rem;
 	padding-bottom: 0.5rem;
+}
+
+.servicepic{
+	width: 70%;
+	padding-bottom: 1rem;
+	padding-top: 2REM;
 }
 
 
@@ -191,12 +191,12 @@ button:hover {
 }
 
 .padding{
-	padding-bottom: 3rem;
+	padding-bottom: 1.5rem;
 }
 
 .desktopdisplay{
 
-  	padding-bottom: 3rem;
+  	padding-bottom: 1.5rem;
 }
 
 @media screen and (min-width:40em){
