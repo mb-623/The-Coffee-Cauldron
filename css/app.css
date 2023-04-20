@@ -3,6 +3,25 @@ body{
 	background-color: #66101F;
 }
 
+body h1{
+	font-size: 2rem;
+	font-family: 'Architects Daughter', cursive;
+	color: #9BD8B0;
+}
+
+body h2{
+	font-size: 1.5rem;
+	font-family: 'Architects Daughter', cursive;
+	color: #9BD8B0;
+}
+
+body p{
+	font-family: 'Annie Use Your Telescope', cursive;
+	color: #9BD8B0;
+	font-size: 1rem;
+	padding-bottom: 0.5rem;
+}
+
 ul {
 	padding: 0;
 	margin: 0;
@@ -99,25 +118,6 @@ img{
   font-size: 2rem;
   color: #9BD8B0;
   margin: 0;
-}
-
-h1{
-	font-size: 2rem;
-	font-family: 'Architects Daughter', cursive;
-	color: #9BD8B0;
-}
-
-h2{
-	font-size: 1.5rem;
-	font-family: 'Architects Daughter', cursive;
-	color: #9BD8B0;
-}
-
-p{
-	font-family: 'Annie Use Your Telescope', cursive;
-	color: #9BD8B0;
-	font-size: 1rem;
-	padding-bottom: 0.5rem;
 }
 
 .servicepic{
